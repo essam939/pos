@@ -59,9 +59,8 @@ flutter test --coverage
 
 ## 🔧 Flutter & Dart Versions
 
-- Flutter: 3.22+
-- Dart: 3.3+
-- SDK: null-safety enforced
+- Flutter: 3.32
+- Dart: 3.8
 
 ---
 
