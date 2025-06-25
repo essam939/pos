@@ -21,7 +21,7 @@ class ReceiptLine {
   final String name;
   final int qty;
   final double price;
-  final double discount; // e.g., 0.10 means 10%
+  final double discount;
   final double lineNet;
 
   const ReceiptLine({
