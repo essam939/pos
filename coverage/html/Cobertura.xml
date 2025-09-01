@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.9615384615384616" branch-rate="1" lines-covered="150" lines-valid="156" branches-covered="0" branches-valid="0" complexity="NaN" version="0" timestamp="1756719634">
+  <sources />
+  <packages>
+    <package name="Default" line-rate="0.9615384615384616" branch-rate="1" complexity="NaN">
+      <classes>
+        <class name="lib\src\cart\bloc\cart_bloc.dart" filename="lib\src\cart\bloc\cart_bloc.dart" line-rate="0.926829268292683" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="11" hits="2" branch="false" />
+            <line number="12" hits="3" branch="false" />
+            <line number="13" hits="3" branch="false" />
+            <line number="14" hits="3" branch="false" />
+            <line number="15" hits="3" branch="false" />
+            <line number="16" hits="3" branch="false" />
+            <line number="17" hits="2" branch="false" />
+            <line number="18" hits="2" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="3" branch="false" />
+            <line number="29" hits="2" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="35" hits="9" branch="false" />
+            <line number="36" hits="3" branch="false" />
+            <line number="38" hits="2" branch="false" />
+            <line number="39" hits="3" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="47" hits="3" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="56" hits="4" branch="false" />
+            <line number="57" hits="4" branch="false" />
+            <line number="58" hits="2" branch="false" />
+            <line number="61" hits="1" branch="false" />
+            <line number="63" hits="3" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="67" hits="4" branch="false" />
+            <line number="68" hits="4" branch="false" />
+            <line number="69" hits="2" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="74" hits="3" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="78" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="82" hits="2" branch="false" />
+            <line number="83" hits="3" branch="false" />
+            <line number="84" hits="3" branch="false" />
+            <line number="88" hits="1" branch="false" />
+            <line number="89" hits="2" branch="false" />
+            <line number="90" hits="3" branch="false" />
+            <line number="91" hits="3" branch="false" />
+            <line number="95" hits="1" branch="false" />
+            <line number="96" hits="4" branch="false" />
+            <line number="97" hits="1" branch="false" />
+            <line number="98" hits="1" branch="false" />
+            <line number="100" hits="1" branch="false" />
+            <line number="101" hits="2" branch="false" />
+            <line number="102" hits="2" branch="false" />
+            <line number="103" hits="2" branch="false" />
+            <line number="107" hits="1" branch="false" />
+            <line number="110" hits="3" branch="false" />
+            <line number="111" hits="1" branch="false" />
+            <line number="112" hits="1" branch="false" />
+            <line number="113" hits="1" branch="false" />
+            <line number="114" hits="2" branch="false" />
+            <line number="116" hits="1" branch="false" />
+            <line number="118" hits="1" branch="false" />
+            <line number="119" hits="2" branch="false" />
+            <line number="121" hits="1" branch="false" />
+            <line number="123" hits="1" branch="false" />
+            <line number="125" hits="1" branch="false" />
+            <line number="126" hits="2" branch="false" />
+            <line number="127" hits="2" branch="false" />
+            <line number="128" hits="2" branch="false" />
+            <line number="136" hits="1" branch="false" />
+            <line number="138" hits="1" branch="false" />
+            <line number="139" hits="4" branch="false" />
+            <line number="140" hits="2" branch="false" />
+            <line number="141" hits="2" branch="false" />
+            <line number="142" hits="2" branch="false" />
+            <line number="143" hits="1" branch="false" />
+            <line number="144" hits="1" branch="false" />
+            <line number="145" hits="1" branch="false" />
+            <line number="146" hits="2" branch="false" />
+            <line number="147" hits="2" branch="false" />
+            <line number="148" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\cart\bloc\cart_event.dart" filename="lib\src\cart\bloc\cart_event.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="4" hits="2" branch="false" />
+            <line number="5" hits="2" branch="false" />
+            <line number="6" hits="2" branch="false" />
+            <line number="11" hits="2" branch="false" />
+            <line number="12" hits="2" branch="false" />
+            <line number="13" hits="4" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="2" branch="false" />
+            <line number="27" hits="2" branch="false" />
+            <line number="28" hits="2" branch="false" />
+            <line number="29" hits="6" branch="false" />
+            <line number="35" hits="2" branch="false" />
+            <line number="36" hits="2" branch="false" />
+            <line number="37" hits="6" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\cart\bloc\cart_state.dart" filename="lib\src\cart\bloc\cart_state.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="7" hits="9" branch="false" />
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="3" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\cart\cart_line.dart" filename="lib\src\cart\cart_line.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="11" hits="2" branch="false" />
+            <line number="17" hits="16" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="4" branch="false" />
+            <line number="36" hits="9" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="43" hits="4" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\catalog\bloc\catalog_bloc.dart" filename="lib\src\catalog\bloc\catalog_bloc.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="2" branch="false" />
+            <line number="17" hits="2" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="24" hits="2" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="4" branch="false" />
+            <line number="27" hits="2" branch="false" />
+            <line number="29" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\catalog\bloc\catalog_event.dart" filename="lib\src\catalog\bloc\catalog_event.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="4" hits="2" branch="false" />
+            <line number="5" hits="1" branch="false" />
+            <line number="6" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\catalog\bloc\catalog_state.dart" filename="lib\src\catalog\bloc\catalog_state.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="4" hits="3" branch="false" />
+            <line number="5" hits="1" branch="false" />
+            <line number="6" hits="1" branch="false" />
+            <line number="14" hits="2" branch="false" />
+            <line number="16" hits="2" branch="false" />
+            <line number="17" hits="4" branch="false" />
+            <line number="21" hits="2" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\catalog\receipt.dart" filename="lib\src\catalog\receipt.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="11" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="3" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="39" hits="2" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="2" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="2" branch="false" />
+            <line number="51" hits="2" branch="false" />
+            <line number="52" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\item_model.dart" filename="lib\src\item_model.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="9" hits="5" branch="false" />
+            <line number="11" hits="2" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="2" branch="false" />
+            <line number="17" hits="2" branch="false" />
+            <line number="18" hits="8" branch="false" />
+          </lines>
+        </class>
+        <class name="lib\src\util\money.dart" filename="lib\src\util\money.dart" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="2" hits="2" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
